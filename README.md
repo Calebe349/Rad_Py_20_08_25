@@ -7,7 +7,7 @@ nascimento e armazene em um arquivo txt, calculando a idade da pessoa.
 
 
 3. Faça um programa que leia um arquivo txt e insere cada linha em uma lista.
-
+(Seus_Dados.txt)
 
 4. Elabore um programa em Python que leia o nome e duas notas de um aluno do
 teclado, calcule a média e armazene em um arquivo txt o nome, a média final e
